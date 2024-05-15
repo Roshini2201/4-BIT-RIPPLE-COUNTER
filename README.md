@@ -1,3 +1,6 @@
+## EX.NO:12
+## DATE:
+
 # 4-BIT-RIPPLE-COUNTER
 
 **AIM:**
@@ -30,10 +33,11 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 4.Instantiate the RippleCounter module.  
 5.Conduct functional testing by displaying the count at each clock cycle for 16 cycles.  
 
-### DEVELOPED BY:ROSHINI S  
-### REGISTER NUMBER : 212223240142
 
 **PROGRAM**
+
+### DEVELOPED BY:ROSHINI S  
+### REGISTER NUMBER : 212223240142
 ```
 module RippleCounter(
    input wire clk,  // Clock input
